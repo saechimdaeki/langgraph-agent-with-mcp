@@ -1,2 +1,3 @@
 .env
 .python-version
+example/income_tax_collection/chroma.sqlite3
